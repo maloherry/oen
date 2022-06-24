@@ -1,7 +1,7 @@
 # Organisations environnementales nationales françaises
 
 Ces données ont été récoltées et traitées dans le cadre d'une thèse de doctorat en science politique :
->  Verdir la société : les organisations environnementales nationales à la croisée des champs  
+>  [Verdir la société : les organisations environnementales nationales à la croisée des champs](https://www.theses.fr/2021REN1G005)  
 >  Auteur : Malo Herry  
 >  Sous la direction de Romain Pasquier et Julien Weisbein  
 >  Université de Rennes 1 / Arènes UMR 6051  
